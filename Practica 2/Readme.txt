@@ -1,0 +1,24 @@
+﻿				Acerca de Pasa la calculadora! 
+
+ Practica 1 Version 2
+ Fundamentos de Programacion 
+ Facultad de Informatica 
+ Universidad Complutense de Madrid 
+
+ Autor: 
+
+ 	Carlos Gavidia Ortiz ( Grado de Informatica 1C ) 
+
+ Instrucciones : 
+
+ El juego Pasa La Calculadora es sencillo. 
+ Para iniciar el juego la maquina decidira aleatoriamente quien empieza. 
+ Tanto la maquina como el jugador tendran que respetar las mismas reglas 
+ del juego. 
+ Las reglas son : 
+ No se puede repetir el numero anterior numero 
+ El numero que se ponga tendra que estar en la misma fila y columna que el 
+ anterior numero 
+ El que llege o supere la cifra de 31 pierde . 
+ Tambien se puede abandonar la partida en cualquier momento de esta ,  pulsando
+ la tecla 0 
