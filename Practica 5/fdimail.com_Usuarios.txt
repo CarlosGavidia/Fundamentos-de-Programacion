@@ -1,0 +1,40 @@
+arturo@fdimail.com
+arturo
+0
+3
+arturo@fdimail.com_1427138732 1
+arturo@fdimail.com_1433406293 1
+arturo@fdimail.com_1433406332 1
+ginebra@fdimail.com
+ginebra
+0
+6
+ginebra@fdimail.com_1433172668 1
+ginebra@fdimail.com_1433172691 1
+ginebra@fdimail.com_1433172706 1
+ginebra@fdimail.com_1433172725 1
+ginebra@fdimail.com_1433172751 1
+ginebra@fdimail.com_1433172807 1
+lancelot@fdimail.com
+lancelot
+11
+arturo@fdimail.com_1427138732 1
+ginebra@fdimail.com_1433172668 1
+ginebra@fdimail.com_1433172691 1
+ginebra@fdimail.com_1433172706 1
+ginebra@fdimail.com_1433172725 1
+ginebra@fdimail.com_1433172751 1
+ginebra@fdimail.com_1433172807 1
+merlin@fdimail.com_1433406211 1
+merlin@fdimail.com_1433406252 1
+arturo@fdimail.com_1433406293 1
+arturo@fdimail.com_1433406332 1
+1
+lancelot@fdimail.com_1433406444 1
+merlin@fdimail.com
+merlin
+0
+2
+merlin@fdimail.com_1433406211 1
+merlin@fdimail.com_1433406252 1
+XXX
